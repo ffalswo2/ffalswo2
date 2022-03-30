@@ -9,7 +9,7 @@
 <br/>
 
 ### 🛠 Skills 🛠
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=orange">   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=orange"> <img src="https://img.shields.io/badge/cloud functions-F7A10F?style=flat-square&logo=cloud functions&logoColor=orange"> <img src="https://img.shields.io/badge/firestore-4183F5?style=flat-square&logo=firestore&logoColor=orange">  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></br>
 
 
