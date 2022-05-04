@@ -1,12 +1,16 @@
-<!-- <div align = "center">
+<!--
+ <div align = "center">
 <a href="https://velog.io/@ffalswo2"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/> 
-<!--   <a href="https://www.notion.so/Hong-Eunho-d4340f6dfdce4c30a41750d82281cebd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> --> <a href="mailto:scott091098@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/> -->
+<a href="https://www.notion.so/Hong-Eunho-d4340f6dfdce4c30a41750d82281cebd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="mailto:scott091098@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/> 
+-->
 
 
-### 🖐 Hi there! 🖐
+### Hi there! 🖐
 <!-- #### would-be iOS Developer🍎 -->
 
-<!-- <br/>
+<!-- 
+<br/>
 
 ### 🛠 Skills 🛠
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=orange"> <img src="https://img.shields.io/badge/cloud functions-F7A10F?style=flat-square&logo=cloud functions&logoColor=orange"> <img src="https://img.shields.io/badge/firestore-4183F5?style=flat-square&logo=firestore&logoColor=orange">  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
@@ -23,6 +27,6 @@
 
 ![ffalswo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffalswo2&show_icons=true&theme=radical)
 <!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scott0910)](https://solved.ac/scott0910) -->
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scott0910)](https://solved.ac/scott0910)
 </div> 
  -->
